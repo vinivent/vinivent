@@ -13,7 +13,7 @@
 
  <a href="https://github.com/vinivent">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinivent&show_icons=true&theme=radical"/>
-  <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinivent&layout=compact&langs_count=16&theme=radical"/>
+  <img height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinivent&layout=compact&langs_count=16&theme=radical"/>
 
 </br>
 </br>
