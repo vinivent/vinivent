@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Vinícius Ventura 👋</h1> <br/> 
 
-I've always been passionate about technology, always looking to be the best version of myself committed to learning new programming languages ​​and learning more about it. Pleased to meet you.
+- I've always been passionate about technology, always looking to be the best version of myself committed to learning new programming languages ​​and learning more about it. Pleased to meet you.
+
 </br>
 </br>
 
