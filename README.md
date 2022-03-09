@@ -2,6 +2,9 @@
 
 I've always been passionate about technology, always looking to be the best version of myself committed to learning new programming languages ​​and learning more about it. Pleased to meet you.
 </br>
+</br>
+
+
 
 <a href="https://open.spotify.com/user/12181315956?si=5f87ee4568e0418e" target="blank"><img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=12181315956&cover_image=true&theme=default"/></a>
 
