@@ -7,7 +7,7 @@
 
 
 
-<a href="https://open.spotify.com/user/12181315956?si=5f87ee4568e0418e" target="blank"><img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=12181315956&cover_image=true&theme=default"/></a>
+<a href="https://open.spotify.com/user/12181315956?si=5f87ee4568e0418e" target="blank"><img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=12181315956&cover_image=true&theme=default" alt="SPOTIFY"/></a>
 
 
 
