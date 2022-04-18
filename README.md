@@ -1,4 +1,4 @@
-<a href="" target="blank"><img align="right" src="https://i.imgur.com/0fpmzvo.png" alt="BANNER"/></a>
+<a href="https://www.linkedin.com/in/viniventura/" target="blank"><img align="right" src="https://i.imgur.com/0fpmzvo.png" alt="BANNER"/></a>
 
 <h1 align="center">Hi there, I'm Vinícius Ventura 👋</h1> <br/> 
 
