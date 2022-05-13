@@ -31,6 +31,7 @@
     <img align="center" alt"HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" idth="40" height="40"/> 
     <img align="center" alt"CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
     <img align="center" alt"JAVA" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
+ <img align="center" alt"JAVA" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35"/> 
 </div>
 
 </br>
