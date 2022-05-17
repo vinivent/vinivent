@@ -9,7 +9,7 @@
 
 
 
-<a href="https://open.spotify.com/user/12181315956?si=5f87ee4568e0418e" target="blank"><img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=12181315956&cover_image=true&theme=default" alt="SPOTIFY"/></a>
+<a href="https://open.spotify.com/user/12181315956?si=5f87ee4568e0418e" target="blank"><img align="right" src="https://i.imgur.com/CbN2EGN.png" alt="SPOTIFY"/> </a>
 
 
 
@@ -17,6 +17,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinivent&show_icons=true&theme=radical"/>
   <img height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinivent&layout=compact&langs_count=16&theme=radical"/>
 
+</br>
+</br>
 </br>
 </br>
 </br>
