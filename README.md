@@ -9,7 +9,7 @@
 
 
 
-<a href="https://open.spotify.com/user/12181315956?si=5f87ee4568e0418e" target="blank"><img align="right" src="https://i.imgur.com/CbN2EGN.png" width="350" alt="SPOTIFY"/> </a>
+<a href="https://open.spotify.com/user/12181315956?si=5f87ee4568e0418e" target="blank"><img align="right" src="https://i.imgur.com/49MuXB9.png" width="350" alt="SPOTIFY"/> </a>
 
 
 
