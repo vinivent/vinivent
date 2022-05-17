@@ -37,9 +37,6 @@
 
 </br>
   <p align ="center">________________________________________________</p>
-</br>
-
-
 
 <h3 align="center" style="font-size:17px">Get in touch:</h3>
 <p align="center">
