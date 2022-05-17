@@ -14,8 +14,8 @@
 
 
  <a href="https://github.com/vinivent">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinivent&show_icons=true&theme=radical"/>
-  <img height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinivent&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinivent&show_icons=true&bg_color=DEG,000000,190a05&title_color=f11f32&hide_border=true&text_color=ffffff&icon_color=e21a2c"/>
+  <img height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinivent&layout=compact&langs_count=16&bg_color=DEG,000000,190a05&title_color=f11f32&hide_border=true&text_color=ffffff&icon_color=e21a2c"/>
 
 </br>
 </br>
