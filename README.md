@@ -23,9 +23,7 @@
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
+
 
 <h3 align="center" style="font-size:17px">Currently Studying:</h3>
 
