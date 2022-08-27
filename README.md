@@ -25,20 +25,21 @@
 </br>
 
 
-<h3 align="center" style="font-size:50px">Tools and Technologies:</h3>
+<h3 align="center" style="font-size:50px">⚙️Tools and Technologies:</h3>
 
-<div align="center" style= "display: inline_block">
-    <img align="center" alt"HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" idth="40" height="40"/> 
-    <img align="center" alt"CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-    <img align="center" alt"JAVA" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
-    <img align="center" alt"JAVA" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35"/> 
-    <img align="center" alt"JAVA" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35" height="35"/> 
+<div align="center"  >
+    <img align="center" alt"VSCODE" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"   width="35" height="35"/> 
+    <img align="center" alt"HTML5" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" idth="40" height="40"/> 
+    <img align="center" alt"CSS3" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
+    <img align="center" alt"JAVA" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain.svg" width="40" height="40"/> 
+    <img align="center" alt"JAVASCRIPT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35"/> 
+    <img align="center" alt"REACT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35" height="35"/>    
 </div>
 
 </br>
   <p align ="center">________________________________________________</p>
 
-<h3 align="center" style="font-size:25px">Contact me:</h3>
+<h3 align="center" style="font-size:25px">📞 Contact me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/viniventura" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-5c0000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/vini.venturaa" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-5c0000?style=for-the-badge&logo=instagram&logoColor=white" alt="vini.venturaa"/></a>
