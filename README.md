@@ -25,7 +25,7 @@
 </br>
 
 
-<h3 align="center" style="font-size:17px">Tools and Technologies:</h3>
+<h3 align="center" style="font-size:50px">Tools and Technologies:</h3>
 
 <div align="center" style= "display: inline_block">
     <img align="center" alt"HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" idth="40" height="40"/> 
@@ -38,7 +38,7 @@
 </br>
   <p align ="center">________________________________________________</p>
 
-<h3 align="center" style="font-size:17px">Contact me:</h3>
+<h3 align="center" style="font-size:25px">Contact me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/viniventura" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/vini.venturaa" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="vini.venturaa"/></a>
