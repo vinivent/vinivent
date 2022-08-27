@@ -40,10 +40,10 @@
 
 <h3 align="center" style="font-size:25px">Contact me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/viniventura" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/vini.venturaa" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="vini.venturaa"/></a>
-<a href="https://wa.me/5581988707458" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="(81) 98870-7458" /></a>
-<a href="mailto: vini.ventura999@gmail.com?subject=Olá Vinícius! Vi seu GitHub" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="vini.ventura999@gmail.com" /></a> </br>
+<a href="https://linkedin.com/in/viniventura" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-5c0000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/vini.venturaa" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-5c0000?style=for-the-badge&logo=instagram&logoColor=white" alt="vini.venturaa"/></a>
+<a href="https://wa.me/5581988707458" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-5c0000?style=for-the-badge&logo=whatsapp&logoColor=white&" alt="(81) 98870-7458" /></a>
+<a href="mailto: vini.ventura999@gmail.com?subject=Olá Vinícius! Vi seu GitHub" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-5c0000?style=for-the-badge&logo=gmail&logoColor=white" alt="vini.ventura999@gmail.com" /></a> </br>
 
 
 </p></br>
