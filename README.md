@@ -22,7 +22,7 @@
 
 <div align="end">
 
-<p>Now Playing on Spotify:⠀⠀⠀⠀⠀⠀</p>
+<p>Now Playing on Spotify:⠀⠀⠀⠀⠀⠀⠀⠀</p>
 
  
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12181315956&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=d3122f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12181315956&redirect=true)
@@ -41,7 +41,8 @@
     <img align="center" alt"REACT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35" height="35"/>  
     <img align="center" alt"TAILWIND" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" width="35" height="35"/>
  <img align="center" alt"MYSQL" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" width="35" height="35"/>
-    
+     <img align="center" alt"FIREBASE" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" width="35" height="35"/>
+  
 </div>
 
 <br/><p align ="center">____________________________________________________________________</p><br/>
