@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=92132f&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Vinícius+de+Melo+Ventura;I'm+a+brazilian+Developer;Pleased+to+meet+you+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=92132f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Vinícius+de+Melo+Ventura;I'm+a+brazilian+Developer;Pleased+to+meet+you+:%29)](https://git.io/typing-svg)
 
 <br/>
 
@@ -61,4 +61,4 @@
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=92132f&height=120&section=footer"/>
