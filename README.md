@@ -42,7 +42,11 @@
     <img align="center" alt"TAILWIND" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" width="35" height="35"/>
  <img align="center" alt"MYSQL" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" width="35" height="35"/>
      <img align="center" alt"FIREBASE" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" width="35" height="35"/>
+  <img align="center" alt"FIREBASE" src="https://raw.githubusercontent.com/expo/expo/main/.github/resources/banner.png" width="30" height="30"/>
   
+  
+  
+ 
 </div>
 
 <br/><p align ="center">____________________________________________________________________</p><br/>
