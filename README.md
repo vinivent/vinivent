@@ -4,7 +4,7 @@
 
 <br/>
 
-- Hey there! I'm a tech enthusiast with experience in Java, JavaScript, React, and MySQL. I'm eager to apply my skills in a professional setting and always up for learning more. My goal is to become a full-stack developer, mastering both frontend and backend technologies. I'm currently actively seeking job opportunities to kickstart my career as a full-stack developer. Feel free to contact me if you have any opportunities available or just want to chat.
+- Hey there! I have experience in Java, JavaScript, Python, MySQL, and other technologies. I'm actively seeking opportunities to kickstart my career as a full-stack developer. I'm open to learning more and chatting about opportunities, feel free to get in touch :)
 
 <br/>
 <div align="center">  
