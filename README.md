@@ -28,36 +28,34 @@
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12181315956&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=d3122f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12181315956&redirect=true)
  
 </div> 
-
-
+<br/>
 <h3 align="center" style="font-size:50px">⚙️ Tools and Technologies:</h3>
 
-<div align="center"  >
-    <img align="center" alt"VSCODE" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"   width="35" height="35"/> 
-    <img align="center" alt"HTML5" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" idth="40" height="40"/> 
-    <img align="center" alt"CSS3" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
-    <img align="center" alt"JAVA" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain.svg" width="40" height="40"/> 
-    <img align="center" alt"JAVASCRIPT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35"/> 
-    <img align="center" alt"REACT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35" height="35"/>  
-    <img align="center" alt"TAILWIND" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" width="35" height="35"/>
- <img align="center" alt"MYSQL" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" width="35" height="35"/>
-     <img align="center" alt"FIREBASE" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" width="35" height="35"/>
-  <img align="center" alt"FIREBASE" src="https://raw.githubusercontent.com/expo/expo/main/.github/resources/banner.png" width="30" height="30"/>
-  
-  
-  
- 
-</div>
-
-<br/><p align ="center">____________________________________________________________________</p><br/>
-
-<h3 align="center" style="font-size:50px">📚 Studying in this moment:</h3>
+<br/>
 <div align="center">
- 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg" height="30" alt="next logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-plain.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" height="28" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg" height="28" alt="spring logo"  />
 </div>
+  
+  
+
 <br/>
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
