@@ -20,16 +20,7 @@
 </div>
 <br/>
 
-<div align="end">
-
-<p>Now Playing on Spotify:⠀⠀⠀⠀⠀⠀⠀⠀</p>
-
- 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12181315956&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=d3122f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12181315956&redirect=true)
- 
-</div> 
-<br/>
-<h3 align="center" style="font-size:50px">⚙️ Tools and Technologies:</h3>
+<h3 align="center" style="font-size:50px">👨‍💻 I code with:</h3>
 
 <br/>
 <div align="center">
