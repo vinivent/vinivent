@@ -61,7 +61,4 @@ Feel free to connect with me or drop a message!
 
 ---
 
-<p align="center"><b>Visitor Count</b></p>  
-<p align="center"><img src="https://profile-counter.glitch.me/vinivent/count.svg" /></p> 
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D1B4E&height=120&section=footer"/>
