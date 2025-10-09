@@ -1,64 +1,41 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D1B4E&height=120&section=header"/>
+# Vinícius Ventura
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Vinícius+Ventura!;Full-stack+developer+|+Backend+Intern;Passionate+about+tech%2C+growth+%26+innovation.;Glad+to+have+you+here!)](https://git.io/typing-svg)
+<img align="right" src="https://novatorem-ebon.vercel.app/api/spotify" width="380">
+<div align="left">
+Back-end developer building stuff that works. Currently shaping systems at Facilit Tecnologia.
+<p>I like clean code, good design, games, food and when I'm not debugging at 3 AM.</p>
+</div>
 
 </div>
 
+## Tech Stack
+**Backend:** Java · Spring Boot · REST APIs · MySQL · PostgreSQL  
+**Frontend:** React · Next.js · JavaScript · TypeScript  
+**Tools:** Docker · AWS · Git · Jira
+
+## Currently
+- Evolving backend systems at a GovTech project
+- Studying Nest.JS 
+- Learning by doing, always
+
+## GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinivent&show_icons=true&hide_border=true&title_color=e62d42&icon_color=e62d42&text_color=c9d1d9&bg_color=0d1117&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinivent&layout=compact&hide_border=true&title_color=e62d42&text_color=c9d1d9&bg_color=0d1117&langs_count=6"/>
+</div>
+
+## Get in Touch
+<br/>
+<br/>
+<div align="center">
+  <a href="https://linkedin.com/in/viniventura" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-e62d42?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/vini.venturaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-e62d42?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://wa.me/5581991271593" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-e62d42?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="mailto:vini.ventura999@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-e62d42?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+<br/>
 <br/>
 
 ---
-
-### 👋 About Me
-
-Hey there! I'm Vinícius, a software developer with experience in:
-- **Java**, **JavaScript**, **Python**, **MySQL**, and more.
-- Currently exploring **full-stack development** opportunities.
-- Always open to learning, collaboration, and new challenges.
-
-Feel free to connect with me or drop a message!
-
----
-
-### ⚙️ Tech Stack
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="33" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="33" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vinivent&show_icons=true&count_private=true&hide_border=true&title_color=FF003C&icon_color=00F0FF&text_color=c9d1d9&bg_color=2D1B4E" />
-  
-  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinivent&layout=compact&hide_border=true&title_color=FF003C&text_color=c9d1d9&bg_color=2D1B4E" />
-</div>
-
-
----
-
-### 📬 Contact Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/viniventura" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF003C?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/vini.venturaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF003C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://wa.me/5581988707458" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-FF003C?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="mailto:vini.ventura999@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-FF003C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D1B4E&height=120&section=footer"/>
+<sub>Recife, BR · Building with intention, one commit at a time.</sub>
