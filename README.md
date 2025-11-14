@@ -3,19 +3,20 @@
 <div align="center">
 <img align="right" src="https://novatorem-ebon.vercel.app/api/spotify" width="380">
 <div align="left">
-Back-end developer building stuff that works. Currently shaping systems at Facilit Tecnologia.
+Back-end developer building stuff that works. Currently working at Facilit Tecnologia and also at Papo de Residência.
 <p>I like clean code, good design, games, food and when I'm not debugging at 3 AM.</p>
 </div>
 
 </div>
 
 ## Tech Stack
-**Backend:** Java · Spring Boot · REST APIs · MySQL · PostgreSQL  
+**Backend:** Java · Spring Boot · Nest.js · MySQL · PostgreSQL  
 **Frontend:** React · Next.js · JavaScript · TypeScript  
 **Tools:** Docker · AWS · Git · Jira
 
 ## Currently
 - Evolving backend systems at a GovTech project
+- cContributing to the development of PDR
 - Studying Nest.JS 
 - Learning by doing, always
 
