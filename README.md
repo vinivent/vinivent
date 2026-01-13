@@ -16,15 +16,8 @@ Back-end developer building stuff that works. Currently working at Facilit Tecno
 
 ## Currently
 - Evolving backend systems at a GovTech project
-- cContributing to the development of PDR
-- Studying Nest.JS 
+- Contributing to the development of PDR
 - Learning by doing, always
-
-## GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinivent&show_icons=true&hide_border=true&title_color=e62d42&icon_color=e62d42&text_color=c9d1d9&bg_color=0d1117&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinivent&layout=compact&hide_border=true&title_color=e62d42&text_color=c9d1d9&bg_color=0d1117&langs_count=6"/>
-</div>
 
 ## Get in Touch
 <br/>
