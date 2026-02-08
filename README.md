@@ -3,7 +3,7 @@
 <div align="center">
 <img align="right" src="https://novatorem-ebon.vercel.app/api/spotify" width="380">
 <div align="left">
-Back-end developer building stuff that works. Currently working at Facilit Tecnologia and also at Papo de Residência.
+Full-stack developer crafting solutions that I'm proud of. Currently at Papo de Residência.
 <p>I like clean code, good design, games, food and when I'm not debugging at 3 AM.</p>
 </div>
 
@@ -15,8 +15,8 @@ Back-end developer building stuff that works. Currently working at Facilit Tecno
 **Tools:** Docker · AWS · Git · Jira
 
 ## Currently
-- Evolving backend systems at a GovTech project
-- Contributing to the development of PDR
+- Developer at educational plataform for PDR
+- Building side projects that solve real problems
 - Learning by doing, always
 
 ## Get in Touch
