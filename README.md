@@ -12,7 +12,7 @@ Full-stack developer crafting solutions that I'm proud of. Currently at Papo de 
 ## Tech Stack
 **Backend:** Java · Spring Boot · Nest.js · MySQL · PostgreSQL  
 **Frontend:** React · Next.js · JavaScript · TypeScript  
-**Tools:** Docker · AWS · Git · Jira
+**Tools:** Docker · AWS · Git · Jira · Linear
 
 ## Currently
 - Developer at educational plataform for PDR
