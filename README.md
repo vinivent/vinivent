@@ -4,7 +4,7 @@
 <img align="right" src="https://novatorem-ebon.vercel.app/api/spotify" width="380">
 <div align="left">
 Full-stack developer crafting solutions that I'm proud of. Currently at Papo de Residência.
-<p>I like clean code, good design, games, food and when I'm not debugging at 3 AM.</p>
+<p>I like clean code, good design, games, food and music.</p>
 </div>
 
 </div>
