@@ -15,10 +15,10 @@ Full-stack developer crafting solutions that I'm proud of. Currently at Papo de 
 **Tools:** Docker · AWS · Git · Jira · Linear
 
 ## Currently
-- Developer at educational plataform for PDR
-- Studying React Native with Expo framework
-- Building side projects that solve real problems
-- Learning by doing, always
+- Developer at educational plataform for PDR;
+- Studying React Native with Expo framework;
+- Building side projects that solve real problems;
+- Learning by doing, always.
 
 ## Get in Touch
 <br/>
