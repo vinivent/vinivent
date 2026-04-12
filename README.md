@@ -4,7 +4,7 @@
     <img width="400" alt="transferir" src="https://github.com/user-attachments/assets/95a83aac-a853-4d48-a99f-3dfbd44c681e" />  
       <p align="center">
           <a href="https://open.spotify.com/user/12181315956?si=81bad5a1911c4d21">
-    <img src="https://novatorem-ebon.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
+    <img src="https://novatorem-ebon.vercel.app/api/spotify?background_color=262626" alt="Spotify Now Playing" width="400"/>
       </a>
     </td>
     <td valign="top">
