@@ -1,36 +1,41 @@
-# Vinícius Ventura
+<table>
+  <tr>
+    <td  width="400">
+    <img width="400" alt="transferir" src="https://github.com/user-attachments/assets/95a83aac-a853-4d48-a99f-3dfbd44c681e" />  
+      <p align="center">
+          <a href="https://open.spotify.com/user/12181315956?si=81bad5a1911c4d21">
+    <img src="https://novatorem-ebon.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
+      </a>
+    </td>
+    <td valign="top">
+      <h1>Vinícius Ventura</h1>
+      <p>Full-stack software engineer focused on scalable backends and modern, clean frontend design. Currently building at Papo de Residência. Passionate about clean code, good design, games, food, and music.</p>
+      <h2>Areas of Interest</h2>
+      <ul>
+        <li>Web development</li>
+        <li>Mobile development</li>
+        <li>Cloud infrastructure and deployment</li>
+        <li>API design and microservices</li>
+        <li>Database modeling and optimization</li>
+        <li>UI/UX and design systems</li>
+      </ul>
+      <h2>Technologies</h2>
+      <ul>
+        <li>Languages: Java, TypeScript, JavaScript</li>
+        <li>Frameworks: Next.js, NestJS, Spring Boot</li>
+        <li>Cloud: AWS, Docker, CI/CD</li>
+        <li>Databases: PostgreSQL, MongoDB, Redis</li>
+      </ul>
+      <h2>Contact</h2>
+      <ul>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/viniventura/">Vinícius Ventura</a></li>
+        <li>Email: vini.ventura999@gmail.com</li>
+        <li>Discord: akavini</li>
+        <li>Number: <a href="https://wa.me/5581991271593" target="_blank">Whatsapp</a></li>
+      </ul>
+    </p>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-<img align="right" src="https://novatorem-ebon.vercel.app/api/spotify" width="380">
-<div align="left">
-Full-stack developer crafting solutions that I'm proud of. Currently at Papo de Residência.
-<p>I like clean code, good design, games, food and music.</p>
-</div>
-
-</div>
-
-## Tech Stack
-**Backend:** Java · Spring Boot · Nest.js · MySQL · PostgreSQL  
-**Frontend:** React · Next.js · JavaScript · TypeScript  
-**Tools:** Docker · AWS · Git · Jira · Linear
-
-## Currently
-- Developer at Ed. Tech for PDR;
-- Studying React Native with Expo framework;
-- Building side projects that solve real problems;
-- Learning by doing, always.
-
-## Get in Touch
-<br/>
-<br/>
-<div align="center">
-  <a href="https://linkedin.com/in/viniventura" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-e62d42?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/vini.venturaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-e62d42?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://wa.me/5581991271593" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-e62d42?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="mailto:vini.ventura999@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-e62d42?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-<br/>
-<br/>
-
----
 <sub>Recife, BR · Building with intention, one commit at a time.</sub>
