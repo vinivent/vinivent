@@ -31,7 +31,6 @@
         <li>LinkedIn: <a href="https://www.linkedin.com/in/viniventura/">Vinícius Ventura</a></li>
         <li>Email: vini.ventura999@gmail.com</li>
         <li>Discord: akavini</li>
-        <li>Number: <a href="https://wa.me/5581991271593" target="_blank">Whatsapp</a></li>
       </ul>
     </p>
     </td>
