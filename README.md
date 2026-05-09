@@ -24,7 +24,7 @@
         <li>Languages: Java, TypeScript, JavaScript</li>
         <li>Frameworks: Next.js, NestJS, Spring Boot</li>
         <li>Cloud: AWS, Docker, CI/CD</li>
-        <li>Databases: PostgreSQL, MongoDB, Redis</li>
+        <li>Databases: SQL, PostgreSQL, MongoDB, Redis</li>
       </ul>
       <h2>Contact</h2>
       <ul>
