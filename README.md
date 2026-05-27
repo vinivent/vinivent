@@ -30,7 +30,6 @@
       <ul>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/viniventura/">Vinícius Ventura</a></li>
         <li>Email: vini.ventura999@gmail.com</li>
-        <li>Discord: akavini</li>
       </ul>
     </p>
     </td>
