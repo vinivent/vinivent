@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td  width="400">
-    <img width="400" alt="transferir" src="https://github.com/user-attachments/assets/95a83aac-a853-4d48-a99f-3dfbd44c681e" />  
+    <img width="400" alt="transferir" src="https://github.com/user-attachments/assets/a018a10d-88ff-441a-83ad-6dfa075bc486" /> 
       <p align="center">
           <a href="https://open.spotify.com/user/12181315956?si=81bad5a1911c4d21">
     <img src="https://novatorem-ebon.vercel.app/api/spotify?background_color=262626" alt="Spotify Now Playing" width="400"/>
@@ -31,6 +31,7 @@
         <li>LinkedIn: <a href="https://www.linkedin.com/in/viniventura/">Vinícius Ventura</a></li>
         <li>Email: vini.ventura999@gmail.com</li>
         <li>Discord: akavini</li>
+        <li>Number: +5581991271593</li>
       </ul>
     </p>
     </td>
