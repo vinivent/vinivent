@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td  width="400">
-    <img width="400" alt="transferir" src="https://github.com/user-attachments/assets/a018a10d-88ff-441a-83ad-6dfa075bc486" /> 
+    <img width="400" alt="transferir" src="https://github.com/user-attachments/assets/6da3d2fe-cd88-4d06-b8cf-017d94e18201" /> 
       <p align="center">
           <a href="https://open.spotify.com/user/12181315956?si=81bad5a1911c4d21">
-    <img src="https://novatorem-ebon.vercel.app/api/spotify?background_color=262626" alt="Spotify Now Playing" width="400"/>
+    <img src="https://novatorem-ebon.vercel.app/api/spotify?background_color=0D0D0D" alt="Spotify Now Playing" width="400"/>
       </a>
     </td>
     <td valign="top">
